@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jfxtras-styles-master.zip!/jfxtras-styles-master/jmetro--samples/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jfxtras-styles-master.zip!/jfxtras-styles-master/jmetro/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
